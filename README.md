@@ -1,18 +1,16 @@
-# mixitup-vue
+# mixitup-vue-example
 
 > A Vue.js example using MixItUp
+
+A very basic example of Vue.js using MixItUp by Kunk Labs
+https://www.kunkalabs.com/tutorials/filtering-with-mixitup/
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+npm i
 
 # serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
